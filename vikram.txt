@@ -1,2 +1,6 @@
 First commit from local master branch
 Second commit from local master branch
+<<<<<<< 2b6fd6a4f13686e0fb25ddc7f3c2545f208b7d46
+=======
+Third commit from local master branch
+>>>>>>> First commit from local master branch -amended onceee
